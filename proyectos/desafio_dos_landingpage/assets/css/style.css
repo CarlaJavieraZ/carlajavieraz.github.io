@@ -1,0 +1,72 @@
+.header {
+  height: 20em;
+  background-image: url("../img/posible-baner.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.header h1 {
+  margin: 0px;
+  font-weight:300
+}
+
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 228, 237);
+}
+.header {
+  height: 100px;
+  padding: 50px;
+  font-size: 20px;
+  background-image: url("../img/posible-baner.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.header h1 {
+  color: aliceblue;
+  font-style: italic;
+  margin: 0px;
+}
+
+p {
+  color: rgb(0, 0, 0);
+  font-style: oblique;
+}
+
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h3 {
+  color:#fff;
+  font-style: oblique;
+}
+.products {
+  width: 80%;
+  margin: auto;
+  }
+  .products td {
+  align-items: center;
+  width: 50%;
+  padding: 2em;
+  }
+  .products img {
+
+  display: flex;
+  width: 150px;
+  height: 200px;
+  border: solid 1px #ddd;
+}
+
+.footer {
+  height: 3em;
+  line-height: 3em;
+  background-color: rgb(216, 94, 179);
+  color: white;
+  text-align: center;
+  font-weight: 900;
+  }
+  
+  
