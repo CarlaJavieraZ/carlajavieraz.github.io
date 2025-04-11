@@ -1,0 +1,44 @@
+body {
+  font-family: "Roboto", sans-serif !important;
+  font-optical-sizing: auto;
+  font-weight: 300 !important;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+  p{
+    color: #707070;
+    font-style:inherit;
+  }
+
+  .custom-navbar {
+    background-color: #17af4a!important;
+}
+
+  .container{
+    align-items: center;
+  }
+
+  
+  .price-container {
+    display: flex;
+    gap: 8px; 
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.old-price {
+    color: gray;
+    text-decoration: line-through;
+    font-size: 1rem;
+}
+
+.new-price {
+    color: rgb(15, 172, 15);
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.bg-light-green {
+  background-color: #17af4a !important; 
+}
