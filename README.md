@@ -16,4 +16,4 @@ https://github.com/CarlaJavieraZ/Cv-Sasha-Godoy
 
 El deploy se encuentra en
 
-https://carlajavieraz.github.io/carlazuniga.github.io/
+https://carlajavieraz.github.io/
